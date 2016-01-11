@@ -20,6 +20,9 @@
     "jspm": "0.16.20"
   },
   "jspm": {
+    "dependencies": {
+      "angular": "github:angular/bower-angular@^1.4.8"
+    },
     "devDependencies": {
       "typescript": "npm:typescript@^1.6.2"
     }
